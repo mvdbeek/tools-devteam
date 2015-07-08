@@ -1,5 +1,6 @@
 # repository published to https://toolshed.g2.bx.psu.edu/repos/devteam/vcfhethom
 owner: devteam
+name: vcfhethom
 description: description
 toolshed:
   - https://lbcd41.snv.jussieu.fr/toolshed/
