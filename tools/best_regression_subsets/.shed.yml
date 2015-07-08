@@ -1,4 +1,6 @@
 # repository published to https://toolshed.g2.bx.psu.edu/repos/devteam/best_regression_subsets
 owner: devteam
 name: best_regression_subsets
-    
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

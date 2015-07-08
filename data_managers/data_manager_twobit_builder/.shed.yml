@@ -4,4 +4,6 @@ categories:
 - Data Managers
 description: Twobit data manager.
 remote_repository_url: https://github.com/galaxyproject/tools-devteam/tree/master/data_managers/data_manager_twobit_builder
-type: unrestricted
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

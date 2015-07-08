@@ -1,4 +1,6 @@
 # repository published to https://toolshed.g2.bx.psu.edu/repos/devteam/samtools_flagstat
 owner: devteam
 name: samtools_flagstat
-    
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

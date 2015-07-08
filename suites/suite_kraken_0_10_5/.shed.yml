@@ -12,4 +12,6 @@ long_description: 'Kraken is a system for assigning taxonomic labels to short DN
   high sensitivity and high speed by utilizing exact alignments of k-mers and a novel
   classification algorithm.'
 homepage_url: https://github.com/galaxyproject/tools-devteam/
-remote_repository_url: https://github.com/galaxyproject/tools-devteam/blob/master/suites/suite_kraken_0_10_5/
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

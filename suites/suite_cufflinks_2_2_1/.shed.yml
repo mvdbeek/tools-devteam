@@ -1,2 +1,4 @@
 owner: devteam
-name: suite_cufflinks_2_2_1
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

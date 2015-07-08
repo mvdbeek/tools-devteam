@@ -32,4 +32,6 @@ long_description: |
 name: data_manager_hisat_index_builder
 owner: devteam
 remote_repository_url: https://github.com/galaxyproject/tools-devteam/tree/master/data_managers/data_manager_hisat_index_builder
-type: unrestricted
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

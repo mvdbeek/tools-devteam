@@ -1,4 +1,6 @@
 # repository published to https://toolshed.g2.bx.psu.edu/repos/devteam/fastq_trimmer
 owner: devteam
 name: fastq_trimmer
-    
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

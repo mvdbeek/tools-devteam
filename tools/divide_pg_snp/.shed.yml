@@ -1,4 +1,6 @@
 # repository published to https://toolshed.g2.bx.psu.edu/repos/devteam/divide_pg_snp
 owner: devteam
 name: divide_pg_snp
-    
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

@@ -1,4 +1,6 @@
 # repository published to https://toolshed.g2.bx.psu.edu/repos/devteam/mapping_to_ucsc
 owner: devteam
 name: mapping_to_ucsc
-    
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

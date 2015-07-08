@@ -1,4 +1,6 @@
 # repository published to https://toolshed.g2.bx.psu.edu/repos/devteam/fastqsolexa_to_fasta_qual
 owner: devteam
 name: fastqsolexa_to_fasta_qual
-    
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

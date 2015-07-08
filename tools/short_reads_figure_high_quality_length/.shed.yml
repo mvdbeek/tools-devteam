@@ -1,4 +1,6 @@
 # repository published to https://toolshed.g2.bx.psu.edu/repos/devteam/short_reads_figure_high_quality_length
 owner: devteam
 name: short_reads_figure_high_quality_length
-    
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

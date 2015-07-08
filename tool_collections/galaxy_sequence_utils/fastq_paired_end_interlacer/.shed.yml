@@ -1,4 +1,6 @@
 # repository published to https://toolshed.g2.bx.psu.edu/repos/devteam/fastq_paired_end_interlacer
 owner: devteam
 name: fastq_paired_end_interlacer
-    
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

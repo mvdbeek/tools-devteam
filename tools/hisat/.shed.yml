@@ -32,4 +32,6 @@ long_description: |
 name: hisat
 owner: devteam
 remote_repository_url: https://github.com/galaxyproject/tools-devteam/tree/master/tools/hisat
-type: unrestricted
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

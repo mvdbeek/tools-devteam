@@ -1,4 +1,6 @@
 # repository published to https://toolshed.g2.bx.psu.edu/repos/devteam/sam_merge
 owner: devteam
 name: sam_merge
-    
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

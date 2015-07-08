@@ -1,4 +1,6 @@
 # repository published to https://toolshed.g2.bx.psu.edu/repos/devteam/all_vcftools
 owner: devteam
 name: all_vcftools
-    
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/

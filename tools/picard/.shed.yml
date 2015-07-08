@@ -1,4 +1,6 @@
 # repository published to https://toolshed.g2.bx.psu.edu/repos/devteam/picard
 owner: devteam
 name: picard
-    
+description: description
+toolshed:
+  - https://lbcd41.snv.jussieu.fr/toolshed/
